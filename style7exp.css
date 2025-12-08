@@ -1,0 +1,39 @@
+header {
+    background: lightgray;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu01 ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu01 li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.menu01 a {
+    text-decoration: none;
+    padding: 5px;
+    background: rgb(132, 106, 122);
+    color: white;
+}
+
+.menu02 ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu02 li {
+    margin: 5px 0;
+}
+
+.menu02 a {
+    text-decoration: none;
+    padding: 5px;
+    background: rgb(132, 106, 122);
+    color: white;
+    display: block;
+}
