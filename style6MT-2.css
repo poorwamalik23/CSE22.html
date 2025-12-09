@@ -1,0 +1,44 @@
+div {
+    border: 2px solid black;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(97, 88, 88);
+}
+
+.product {
+    border: 1px solid rgb(137, 136, 136);
+    margin: auto;
+    padding: 10px;
+    width: 300px;
+    background-color: rgb(219, 233, 244);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    border: 2px solid black;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+
+.price strike {
+    color: rgb(141, 30, 30);
+}
+button:hover {
+    background-color: rgb(114, 75, 114);
+    color: black;
+
+}
+h3 {
+    color: darkslateblue;
+    
+}
+p{
+    color: rgb(45, 68, 68);
+}
